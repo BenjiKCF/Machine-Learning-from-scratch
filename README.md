@@ -1,5 +1,6 @@
 # Machinelearning
-Custom made regression, clustering and classifier from scratch 
+Custom made regression, clustering and classifier from scratch enable students and learner to have better understanding of the mechanism and algorithm of the actual classifier.
+
 
 The following classifiers are included in the folder
 1. Linear Regression, 
